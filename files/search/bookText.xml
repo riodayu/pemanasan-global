@@ -1,0 +1,3049 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Search><pages Count="39"><page Index="1"><![CDATA[Interactive Learning Modul Berbasis
+
+
+
+
+              Masalah Berimplementasi Pada Project
+
+
+
+
+
+
+
+
+
+
+
+                                   GLOBAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Rani Fajar Wati
+
+        Estika Prameswari                                                             U N T U K
+
+        Oktarina
+
+        Sri Arum Mawarni                                                    KELAS XI
+
+
+        Intan Sovi Aghnia Q.
+
+
+            DOSEN PEMBIMBING                                                          SMA | MA
+
+
+
+         Dr. Friska Octavia Rosa, M.Pd.]]></page><page Index="2"><![CDATA[KATA PENGANTAR
+
+
+               Puji  syukur  kehadirat  Allah  SWT  yang telah memberikan  segala  kenikmatan kepada kita
+
+        semua, sehingga penulis dapat menyelesaikan interactive learning modul (ILM) berbasis masalah
+
+        berimplementasi pada project menggunakan flipbook dengan materi Pemanasan Global. Shalawat
+        dan salam tak lupa penulis sampaikan kepada Rasulullah SAW, keluarga, kerabat, sahabat dan
+
+        mereka yang mengikutinya yang kita nantikan syafaatnya di yaumul akhir nantinya.
+
+               Interactive learning Modul (ILM) ini merupakan bahan ajar pada materi pemanasan global
+        yang dapat membantu guru dan peserta didik dalam melaksanakan proses pembelajaran. Dalam
+
+        penyajian memuat gambar ilustrasi, video maupun foto dari berbagai sumber yang bertujuan untuk
+        menarik minat peserta didik terhadap penyajian dan pemahaman materi. Interactive learning Modul
+
+        (ILM)  ini  dilengkapi  dengan  penugasan  interaktif  yang  disusun  dengan  metode  pembelajaran
+        berbasis masalah berimplementasi pada project dimana peserta didik berperan untuk memecahkan
+
+        masalah  kontesktual,  yaitu  dengan    pemecahan  masalah  secara  ilmiah  dengan  mengamati,
+
+        menanya, menalar, menggali informasi,dan mengkomunikasikan. Interactive learning Modul (ILM)
+        ini  dilengkapi  dengan  tujuan  pembelajaran  untuk  mengetahui  target  yang  akan  dicapai  setelah
+
+        mempelajari materi dalam Interactive learning Modul (ILM), peta konsep sebagai gambaran umum,
+        apersepsi  untuk  meningkatkan  motivasi  peserta  didik,  gambar  untuk  membantu  pemahaman
+
+        peserta  didik,  rangkuman,  evaluasi  untuk  menguji  penguasaan  materi  yang  telah  dipelajari,
+        glosarium berisi penjelasan dari kosa kata materi pada Interactive learning Modul (ILM) yang tertulis
+
+        dalam kandungan isinya.
+
+               Penulis  menyadari  bahwa  interactive  learning  modul  (ILM)  berbasis  masalah
+        berimplementasi  pada  project  menggunakan  flipbook  ini  masih  perlu  dikaji  kembali  guna
+
+        meningkatkan  kualitas  yang  lebih  baik.  Untuk  itu,  penulis  sangat  senang  apabila  dosen,  guru,
+
+        teman, ataupun pembaca dapat berkenan memberi kritik dan saran yang membangun. Semoga
+        modul ini dapat menjadi bahan ajar yang bermanfaat khusunya bagi peserta didik SMA/MA.
+
+
+
+
+
+                                                                                                      Penyusun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                ii
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="3"><![CDATA[DAFTAR ISI
+
+
+
+
+
+        COVER ..................................................................................................................................    i
+        KATA PENGANTAR .............................................................................................................    ii
+
+        DAFTAR ISI ...........................................................................................................................    iii
+        PENDAHULUAN ...................................................................................................................    iv
+
+         A.  Deskripsi ..........................................................................................................................     iv
+         B.  Petunjuk Penggunaan Interactive learning Modul (ILM) ..................................................     iv
+
+         C.  Tujuan pembelajaran .......................................................................................................     v
+
+         D.  Manfaat ............................................................................................................................     v
+         E.  Kompetensi ......................................................................................................................     vi
+
+         F.  Peta Konsep ....................................................................................................................    vii
+        PEMANASAN GLOBAL ........................................................................................................     1
+
+         A.  Pengertian Pemanasan Global ........................................................................................     2
+
+         B.  Gejala Pemanasan Global ...............................................................................................    4
+             1.  Efek Rumah Kaca .....................................................................................................     4
+
+             2.  Emisi Karbon .............................................................................................................     9
+             3.  Perubahan Iklim ........................................................................................................    12
+
+         C.  Dampak Pemanasan Global ............................................................................................   17
+
+         D.  Alternatif Solusi ................................................................................................................    17
+         E.  Kesepakatan Dunia Internasional ....................................................................................   18
+
+        RANGKUMAN .......................................................................................................................    20
+        EVALUASI .............................................................................................................................    21
+
+        REMIDIAL ..............................................................................................................................    22
+        PENGAYAAN ........................................................................................................................    23
+
+        GLOSARIUM .........................................................................................................................    28
+
+        DAFTAR PUSTAKA ..............................................................................................................    29
+        KUNCI JAWABAN ................................................................................................................    30
+
+        BIOGRAFI PENULIS .............................................................................................................    31
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                               iii
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="4"><![CDATA[PENDAHULUAN
+
+
+         A.  Deskripsi Pemanasan Global
+
+               Pemanasan global merupakan suatu keadaan ketidakseimbangan ekosistem di bumi akibat
+
+         terjadinya  proses  peningkatan  temperatur  rata-rata  atmosfer,  laut,  dan  daratan  di  bumi.
+         Pemahaman terhadap pemanasan global merupakan salah satu tujuan pokok pembelajaran fisika.
+
+         Sebagai gambaran tentang pentingnya mencegah pemanasan global.
+
+               Dulu musim hujan dan musim kemarau di indonesia bisa kita perkirakan dengan pasti, namun
+         sekarang nampaknya kita sulit untuk menentukan kapan musim hujan dan  musim kemarau itu
+
+         berlangsung. Pergeseran musim itu sering terjadi, bahkan saat musim hujan, hujan terus menerus
+         sepanjang hari dan menghambat aktivitas bahkan sampai menyebabkan banjir di wilayah tersebut.
+
+         Saat musim kemarau yang identik dengan panas namun saat ini pada saat musim kemarau hujan
+         berlangsung secara periodik, setiap harinya panas di pagi hari, namun hujan di siang atau malam
+
+         hari.
+
+               Fenomena perubahan iklim di atas apakah berhubungan dengan pemanasan global yang
+         sudah diperingatkan dari dulu? perubahan iklim yang sangat singkat ini terjadi hampir setiap hari
+
+         dan dengan lingkup wilayah yang mulai mengecil. Apa yang terjadi jika hal ini  berlangsung terus
+         menerus? Apakah dampak dari gejala di atas? Bagaimana mengatasi dampak negatifnya? Upaya
+
+         mengendalikan, mengurangi dan mengantisipasinya adalah dengan melestarikan lingkungan hidup
+         yang dapat dilakukan oleh semua pihak baik pemerintah, masyarakat dan lembaga pendidikan atau
+
+         sekolah.  Interactive  learning  Modul  (ILM)  ini  diharapkan  dapat  memberikan  solusi  dari
+
+         permasalahan di atas.
+            Interactive  learning  Modul  (ILM)  ini  akan  mempelajari  materi  pemanasan  global.  Interactive
+
+        learning Modul (ILM) ini disusun dengan berbasis masalah berimplementasi pada project dengan
+
+        menggunakan flipbook. Di dalam kegiatan belajar ini Peserta didik akan menggali pengetahuan
+        dengan mengamati masalah kontekstual tentang pemanasan global. Selain itu peserta didik akan
+
+        menggali  pengetahuan  dengan  mencari  informasi-informasi  yang  terkait  untuk  membuat  ide
+        sebagai solusi pemecahan masalah. Sebagai bagian pelengkap dalam kegiatan belajar Interactive
+
+        learning Modul (ILM) ini dilengkapi dengan evaluasi yang mengajak peserta didik berpikir untuk
+        melihat kembali efektivitas langkah-langkah yang telah dilakukan untuk mengatasi permasalahan
+
+        pemanasan global.
+
+
+         B.  Petunjuk Penggunaan Modul
+
+               Setelah  mempelajari  Interactive  learning  Modul  (ILM)  ini,  peserta  didik  diharapkan  dapat
+         menjelaskan  tentang  pemanasan  global  dan  dampaknya  dalam  kehidupan  sehari-hari  serta
+
+         mampu  memberi  solusi  atau  mengatasinya.  Untuk  memaksimalkan  fungsi  Interactive  learning
+         Modul (ILM) maka berikut petunjuk penggunaan Interactive learning Modul (ILM).
+
+         1.  Bagi Guru
+
+            Petunjuk Umum
+            a.  Teknik pembelajaran yang digunakan pada modul ini adalah teknik fasilitasi.
+
+            b.  membagi peserta didik menjadi beberapa kelompok.
+
+
+                                                                                                               iv
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="5"><![CDATA[c.  Membantu  peserta  didik  dalam  menyelesaikan  permasalahan  kontekstual  dan
+
+                melaksanakan project.
+            d.  Membimbing peserta didik melalui tugas-tugas yang tertera dalam modul.
+
+            e.  Melaksanakan penilaian.
+            f.  Mengarahkan peserta didik apabila masih ada kesalahan dan membantu mencari sumber-
+
+                sumber belajar lain sebagai pendukung modul.
+
+
+            Petunjuk Khusus
+
+            a.  Guru membahas dan menunjukan masalah pada masing-masing sub bab.
+            b.  Guru memfasilitasi peserta didik dalam mengidentifikasi masalah pada setiap sub bab yang
+
+               dipelajari
+            c.  Guru  memfasilitasi  peserta  didik  dalam  menyelesaikan  permasalahan  kontekstual  dan
+
+               melaksanakan project.
+            d.  Guru meminta peserta didik menyampaikan hasil project bersama dengan kelompok.
+
+            e.  Guru memfasilitasi peserta didik dalam menemukan kesimpulan pada sub bab yang sedang
+
+               dipelajari.
+            f.  Guru melakukan penilaian untuk mengetahui tingkat ketercapaian indikator.
+
+
+
+         2.  Bagi Peserta Didik
+            a.  Bacalah  terlebih  dahulu  petunjuk  penggunaan  Interactive  learning  Modul  (ILM)  untuk
+
+                mempermudah kalian mempelajari modul ini.
+            b.  Pelajari materi yang ada dalam ILM secara berurutan. Peyajian materi dalam ILM ini disertai
+
+                dengan project untuk memecahkan masalah yang disajikan dalam Interactive learning Modul
+                (ILM).
+
+            c.  Perhatikan  langkah-langkah  dalam  melakukan  project  dengan  benar  sehingga
+
+                mendapatkan hasil yang optimal.
+            d.  Jika  dalam  mengerjakan  tugas/soal  kalian  menemukan  kesulitan,  konsultasikan  dengan
+
+                teman/guru, jika perlu, cari referensi lain yang mendukung.
+            e.  Setelah mempelajari semua sub pokok materi kerjakanlah evaluasi secara mandiri.
+
+
+         C.  Tujuan
+
+               Setelah  mempelajari  Interactive  learning  Modul  (ILM)  ini  diharapkan  peserta  didik
+
+        memiliki kompetensi sebagai berikut:
+         1.  Siswa mampu menganalisis gejala pemanasan global dan dampaknya dalam kehidupan
+
+            sehari-hari.
+
+         2.  Siswa mampu menyajikan ide/gagasan dalam memecahkan masalah pemanasan global.
+
+
+         D.  Manfaat
+               Pemahaman  yang  baik  terhadap  pemanasan  global  akan  bermanfaat  untuk  memahami
+
+         gejala  dan  dampak  pemanasan  global  dalam  kehidupan  sehari-hari.  Sehingga  peserta  didik
+         mampu melakukan pencegahan terjadinya pemanasan global.
+
+
+
+                                                                                                                v
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="6"><![CDATA[Pemahaman  yang  cukup  mendalam  terhadap  pemanasan  global  memungkinkan  peserta
+
+         didik mendesain berbagai project untuk menanggulangi masalah gejala pemanasan global dalam
+         kelas.
+
+
+         E.  Kompetensi
+
+         1.  Kompetensi Inti
+            KI 3: Memahami, menerapkan, dan menganalisis pengetahuan faktual, konseptual, prosedural,
+
+            dan metakognitif berdasarkan rasa ingin tahunya tentang ilmu pengetahuan, teknologi, seni,
+
+            budaya,  dan  humaniora  dengan  wawasan  kemanusiaan,  kebangsaan,  kenegaraan,  dan
+            peradaban  terkait  penyebab  fenomena  dan  kejadian,  serta  menerapkan  pengetahuan
+
+            prosedural  pada  bidang  kajian  yang  spesifik  sesuai  dengan  bakat  dan  minatnya  untuk
+            memecahkan masalah.
+
+            KI 4: Mengolah, menalar, dan menyaji dalam ranah konkret dan ranah abstrak terkait dengan
+            pengembangan dari yang dipelajarinya di sekolah secara mandiri, bertindak secara efektif dan
+
+            kreatif, serta mampu menggunakan metode sesuai kaidah keilmuan.
+
+         2.  Kompetensi Dasar
+            3.12     Menganalisis  gejala  pemanasan  global  dan  dampaknya  bagi  kehidupan  serta
+
+                     lingkungan
+
+            4.12     Mengajukan  ide/gagasan  penyelesaian  masalah  pemanasan  global  sehubungan
+
+                     dengan gejala dan dampaknya bagi kehidupan serta lingkungan
+
+         3.  Indikator
+            3.12.1      Memahami  gejala  pemanasan  global,  dampak,  pengaruh,  dan  upaya-upaya
+
+                        mengurangi pemanasan global.
+
+            4.12.1      Menyajikan  ide/gagasan penyelesaian masalah pemanasan global sehubungan
+                        dengan gejala dan dampaknya bagi kehidupan serta lingkungan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                               vi
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="7"><![CDATA[F.  Mind Mapping
+
+
+
+
+
+
+
+
+                                                  Emisi Karbon
+
+
+
+
+
+
+
+
+
+
+
+
+                       Efek Rumah Kaca                             Perubahan Iklim
+
+                                                                Penyebab
+                                                           Pemansan Global
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           Pemanasan Global
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                             Kesehatan Manusia
+                                                    Gangguan Cuaca
+
+
+
+
+                 Daur Ulang
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                Pertania         Hewan dan
+                            Mencegah                   Tinggi Permukaan         n
+     Hemat Energi                                                                                 Tumbuhan
+                            Kerusakan                          Laut
+
+
+
+
+
+                                                                                                               vii
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="8"><![CDATA[PEMANASAN GLOBAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             Gambar 1. Keadaan Lingkungan
+                   Sumber: https://lindungihutan.com/blog/pemanasan-global-dan-berbagai-dampaknya/
+
+
+               Apakah  Kalian  menyadari  bahwa  lingkungan  sekitar  Kalian  telah  banyak  berubah?  Suhu
+        udara yang tak lagi sejuk, musim kemarau dan musim hujan yang lamanya tidak dapat diprediksi.
+
+        Dahulu  pada  bulan  Maret  sampai  September  yang  selama  ini  biasanya  identik  dengan  musim
+        kemarau  namun  sekarang  sering  terjadi  hujan  dengan  intensitas  tinggi,  sedangkan  pada  bulan
+
+        Oktober sampai Februari yang identik dengan musim hujan namun sekarang sulit diprediksi. Daerah
+        yang  tidak  biasanya  terkena  banjir,  kini  terdampak  banjir,  dan  banyak  perubahan  lainnya.
+
+        Perubahan lingkungan yang Kalian rasakan saat ini adalah gejala yang menunjukkan bahwa Bumi
+
+        ini tidak sedang baik-baik saja. Apa yang  menyebabkannya?  Bagaimana proses perubahannya
+        hingga Kalian dapat merasakan dampaknya saat ini? Sebagai pelajar, apa yang bisa Kalian lakukan
+
+        untuk berpartisipasi secara aktif dalam menanggulangi dampak kerusakan Bumi?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                1
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="9"><![CDATA[A.  Pengertian Pemanasan Global
+
+
+
+                                                          LONDON  -  Sebuah  gunung  es  besar  hampir
+
+                                                          seukuran  kota  London  pecah  dari  lapisan  es
+
+                                                          Antartika  dekat  stasiun  penelitian  British
+
+                                                          An  tarctic  Survey  (BAS).  Gunung  es  berukuran
+                                                          sekitar 1.550 kilometer persegi dan setebal 150
+
+
+                                                          meter  lepas  dari  Antartika  pada  Minggu  22
+
+                                                          Januari 2023 malam.
+
+                                                          Ilmuwan  Inggris  telah  memantau  pertumbuhan
+
+                                                          retakan besar gunung es baru yang belum diberi
+
+                                                          nama di Beting Es Brunt selama dekade terakhir.
+
+                                                          Beting  Es  Brunt  atau  Brunt  Ice  Shelf  adalah
+
+                                                          lokasi  Stasiun  Riset  Halley  British  Antarctic
+
+                                                          Survey (BAS).
+
+                                                          “Ahli  glasiologi  dan  tim  operasi  kami  telah
+
+                                                          mengantisipasi peristiwa ini. Pengukuran beting
+
+
+                                                          es dilakukan beberapa kali sehari menggunakan
+
+                                                          jaringan otomatis instrumen GPS presisi tinggi,"
+
+                                                          kata  Profesor  Dame  Jane  Francis,  Direktur
+
+                                                          Survei  Antartika  Inggris  (British  Antarctic
+
+                                                          Survey/BAS)  dari  laman  BNO  News,  Selasa
+
+                                                          (24/1/2023).
+
+
+
+                                Gambar 2. Berita Pemanasan Global yang Terjadi di Dunia
+         Sumber: https://sains.sindonews.com/read/1004331/766/gunung-es-sebesar-kota-london-pecah-terlepas-
+                                                dari-antartika-1674554512
+
+               Berita di atas merupakah salah satu contoh dampak pemanasan global yang terjadi di dunia.
+        Mengapa  pemanasan  global  dapat  menimbulkan  dampak  yang  sangat  besar  terhadap  bumi?
+
+        Mengapa pemanasan global tersebut dapat terjadi? Apa penyebabnya? Apa akibatnya? Bagaimana
+        usaha pencegahannya? Mari kita bahas dalam modul ini.
+
+               Pemanasan global adalah suatu kejadian meningkatnya temperatur di bumi yaitu baik pada
+        atmosfer,  lautan  maupun  daratan  akibat  terperangkapnya  radiasi  gelombang  panjang  matahari
+
+        (gelombang  panas  atau  infra  merah)  yang  dipancarkan  ke  bumi  oleh  gas-gas  rumah  kaca.
+
+        Pemanasan global merupakan interaksi antar makhluk hidup dan pencemaran udara, dalam konten
+        fisika yaitu suhu, pemuaian dan kalor, serta konten kimia yaitu perubahan fisika dan kimia, gas
+
+        rumah  kaca  dan  asam  basa.  Ada  enam  jenis  gas  rumah  kaca  yang  menyebabkan  tejadinya
+        pemanasan  global,  yaitu  Karbondioksida  (CO2),  Metana  (CH4),  Nitrous  oksida  (N2O),
+
+        Hydroperfluorokarbon  (HFCs),  Perfluorokarbon  (CFCs),  Sulfur  Heksaflorida  (SF6).  Gas-gas  ini
+
+        secara alami terdapat di udara (atmosfer). Akibat pemanasan global dapat berpengaruh pada hasil
+        pertanian, hilangnya glatser, dan punahnya berbagai jenis hewan.
+
+               Pemanasan global terjadi ketika ada konsentrasi gas-gas tertentu yang dikenal dengan gas
+        rumah  kaca,  yang  terus  bertambah  diudara,  hal  tersebut  disebabkan  oleh  tindakan  manusia,
+
+        kegiatan  industri,  khususnya  CO2  dan  Chlorofluorocarbon.  Pemanasan  global  (global  warming)
+
+        memberikan dampak yang sangat luas dan memengaruhi kehidupan makhluk hidup di bumi baik
+        itu  hewan,  tumbuhan,  dan  manusia.  Dampak  pemanasan  global  dapat  terjadi  karena  berbagai
+
+        penyebab dari tingkah laku manusia dalam memanfaatkan segala sumber daya alam, dan tidak
+        mengenal batas serta kesehatan bumi ini.
+
+
+                                                                                                                2
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="10"><![CDATA[Usaha yang dapat dilakukan untuk menanggulangi pemasasan global salah satunya menurut
+
+        penelitian  dari  Lousiana  Tech  University  menemukan  bahwa  setiap  pepohonan  hijau  dapat
+        menangkap karbon yang cukup untuk mengimbangi emisi yang dihasilkan dari pengendara mobil
+
+        selama  setahun.  Hutan  mangrove  turut  serta  dalam  mengendalikan  perubahan  iklim  sebagai
+        dampak dari pemanasan global dengan berperan sebagai paru-paru dunia melalui penyerapan dan
+
+        menyimpan karbon biru  (blue carbon).  Pemanasan global  tidak dapat  dipungkiri  terjadi  sebagai
+        akibat  dari  aktivitas  manusia.  Oleh  karena  itu,  marilah  belajar  dengan  sungguh-sunggu  serta
+
+        berusaha untuk melestarikan lingkungan alam sekitar kita sebagai wujud ketakwaan kepada Tuhan
+
+        Yang Maha Esa agar kelak menjadi manusia yang cerdas dan perduli terhadap lingkungan dan
+        semua ciptaan Tuhan.
+
+               Untuk lebih lengkapnya kalian dapat melihat video dibawah ini:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          Sumber: https://youtu.be/tGr3LCCfQd0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                3
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="11"><![CDATA[B.  GEJALA PEMANASAN GLOBAL
+
+        1.  Efek Rumah Kaca
+
+                                                             REPUBLIKA.CO.ID,  BANDAR  LAMPUNG  --
+                                                             Dinas  Lingkungan  Hidup  (DLH)  Provinsi
+                                                             Lampung mendata, produksi sampah domestik
+                                                             di  wilayah  Lampung  mencapai  4.515  ton  per
+                                                             hari. Namun, tiga Tempat Pembuangan Akhir
+                                                             (TPA) sampah yang sudah melebihi kapasitas
+                                                             (overload).
+
+                                                             Tiga  TPA  tersebut  berada  di  Kota  Bandar
+                                                             Lampung yakni TPA Bakung, Kota Metro, dan
+                                                             Kabupaten  Lampung  Tengah.  TPA  Bakung
+                                                             sebagai  tempat  akhir  pembuangan  sampah
+                                                             domestik  warga  Kota  Bandar  Lampung,  saat
+                                                             ini  kondisinya  sudah  tidak  tertampung  lagi.
+                                                             Berdasar     kanpemantauan        republika.co.id,
+                                                             Selasa (31/1/2023).
+
+
+
+
+
+
+
+
+
+                           Gambar 3. Berita Penumpukan Sampah di 3 TPA di Lampung Penuh
+          Sumber: https://news.republika.co.id/berita//rpco5f463/produksi-sampah-lampung-4-515-ton-per-hari-tiga-
+                                           tpa-penuh-sampah-dibuang-kemana
+
+               Pembuangan sampah yang tidak diurus dengan baik akan mengakibatkan masalah besar.
+
+        Karena penumpukan sampah atau pembuangan sampah ke kawasan terbuka akan menimbulkan
+        banyak permasalahan termasuk salah satunya berdampak pada efek rumah kaca. Berdasarkan
+
+        berita diatas bagaimana upaya untuk menangani permasalahan sampah tersebut? dan altrenatif
+
+        apa yang bisa siswa lakukan?
+               Efek  rumah  kaca  adalah  terperangkapnya  panas  matahari  oleh  atmosfer  bumi  dan
+
+        menyebabkan suhu bumi menjadi panas. Efek rumah kaca disebabkan karena naikknya konsentrasi
+        gas  Karbondioksida  (CO2)  dan  gas-gas  lainnya  di  atmosfer.  Efek    rumah    kaca  pertama    kali
+
+        dicetuskan oleh Joseph Fourier pada tahun 1824, merupakan proses pemanasan permukaan suatu
+        benda langit (yang  disebabkan oleh komposisi dan keadaan atmosfernya. Efek rumah kaca hanya
+
+        terjadi  pada planet yang mempunyai lapisan atmosfer seperti  Bumi,  Mars, Venus, dan satelit alami
+
+        Saturnus  (Titan).  Efek  rumah  kaca  sejatinya  dibutuhkan  untuk  menjaga  suhu  bumi,  supaya
+        perbedaan  suhu  antara  siang  dan  malam  tidak  terlalu  besar.  Namun  efek  rumah  kaca  yang
+
+        berlebihan akan menyebabkan pemanasan global. Untuk menjawab pertanyaan di atas kalian dapat
+
+        melakukan project berikut:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                4
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="12"><![CDATA[Ayo Kita Mengamati
+
+
+
+                   Penggunaan kertas yang berlebihan dapat memberikan dampak negatif kepada
+
+               lingkungan  karena  semakin  tinggi  permintaan  kertas  maka  semakin  tinggi  jumlah
+               pohon yang akan ditebang untuk menjadi bahan baku pembuatan kertas. Penggunaan
+               kertas ternyata berkontribusi dalam menyumbang emisi gas rumah kaca yang dapat
+               mempercepat terjadinya pemanasan global. Sejak beberapa dekade lalu, penggunaan
+
+               kertas telah meningkat 400 persen, seperti yang disebut World Atlas (2018). Kertas itu
+               memiliki dampak yang signifikan terhadap lingkungan. Ketika kertas dibuang di tempat
+               pembuangan,  kertas  itu  juga  menghasilkan  metana,  yang  juga  menghasilkan  gas
+               rumah kaca yang kuat. Pada 2021, total ada 23,5 juta hektar lahan hutan digunduli atau
+               dibakar secara global untuk memproduksi kertas tersebut. Memproduksi 1 kg kertas
+
+               membutuhkan  pohon  setidaknya  2-3  kali  lebih  beratnya.  Jika  setiap  orang
+               menggunakan 200 kg kertas per tahun, jumlah pohon bisa habis. Industri kertas selain
+               mengancam ketersediaan hutan hijau di dunia.
+                   Amatilah  bagaimana  keadaan  di  lingkungan  sekolah  Kalian,  tuliskan  hasil
+               pengamatan pada tabel yang telah disediakan.
+
+                                       Kondisi Yang Diamati                           Hasil Pengamatan
+                Pengelolaan sampah kertas di lingkungan Sekolah
+                Kondisi lingkungan Sekolah pada pagi hari
+
+                Banyaknya pohon yang ditanam di lingkungan sekolah
+
+
+
+
+
+
+                  Ayo Kita Menanya
+
+
+
+                   Dari masalah yang kalian amati di atas, coba jawablah pertanyaan berikut:
+                1. Bagaimana menanggulangi masalah penggunaan  kertas?
+                2. Apakah upaya yang dapat diilakukan untuk mengurangi masalah tersebut?
+
+                Jawaban:
+                .........................................................................................................................................
+                .........................................................................................................................................
+                .........................................................................................................................................
+                .........................................................................................................................................
+
+                .........................................................................................................................................
+
+
+
+             Ayo Kita Menggali Informasi
+
+
+                     Berdasarkan kegiatan mengamati dan menanya solusi apakah yang dapat Kalian
+                 berikan untuk menanggulangin masalah penggunaan kertas? Silahkan Kalian browsing
+                 atau  membaca  buku  untuk  mendapatkan  solusi  cara  menanggulangi  dampak  dari
+                 penggunaan kertas di lingkungan sekolah dan lingkungan tempat tinggal!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                5
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="13"><![CDATA[Ayo Kita Menalar!
+
+
+
+                       Berikut ini salah satu contoh project yang dapat dilakukan peserta didik dalam
+
+                  menanggulangi efek rumah kaca.
+                       Lakukanlah  project  berikut  secara  berkelompok  dan  buatlah  laporan  hasil
+                  pekerjaan kalian!
+
+                                          Pembibitan di Lingkungan Sekolah
+
+
+                  1) Alat dan Bahan
+
+                      •   Pot/ Polybag
+                      •   Bibit tanaman
+                      •   Tanah
+                      •   Pupuk Kompos/pupuk kompos
+
+                  2) Cara Melakukan
+                       •  Lubangi pot/polybag jika belum dilubangin.
+                       •  Kemudian isi pot/polybag dengan campuran tanah dan pupuk kompos.
+                       •  Tanamkan bibit dalam media tanam dengan kedalaman 5 cm sampai 10
+
+                          cm.
+                       •  Lalu siram hingga lembab dan letakan pot/polybag tersebut pada tempat
+                          teduh dan sejuk.
+                       •  Lakukan penyiraman setiap pagi/sore hari.
+                       •  Jangan lupa berikan tanaman pupuk.
+
+                       •  Selanjutnya  Kalian  dapat  menunggu  pertumbuhan  bibit  hingga  bertunas
+                          dan munculnya akar dan beberapa daun.
+                       •  Setelah  memiliki  batang  yang  kuat  Kalian  dapat  memindahkannya
+                          ketempat lain seperti lahan terbuka ataupun pot besar.
+
+
+                       Setelah  Kalian  mengamati,  menanya,  menggali  informasi,  dan  berdasarkan
+                  dari  project  yang  telah  dilakukan  jelaskanlah  hubungan  kegiatan  Kalian  dengan
+
+                  efek rumah kaca dan pemanasan global!
+
+
+
+
+
+                       Ayo Kita
+
+                Mengkomunikasikan
+
+
+                    Setelah melakukan project dan membuat laporan, lakukanlah presentasi di depan
+               kelas hasil project yang telah kelompok anda lakukan yaitu tentang apa yang kelompok
+
+               anda  pahami  tentang  dampak  pembibitan  atau  Penanaman  kembali  terhadap  efek
+               rumah kaca.
+
+
+
+
+
+               Setelah Kalian melakukan project pembibitan di lingkungan sekolah, kesimpulan apa yang
+        Kalian dapatkan setelah melakukan kegiatan tersebut? Apakah hal tersebut dapat mengurangi dan
+
+        menjaga agar bumi tidak mengalami efek rumah kaca yang semakin parah? mari pelajari materi
+
+        mengenai efek rumah kaca sebagai tambahan literatur setelah kegiatan yang Kalian lakukan.
+
+
+
+
+
+
+
+                                                                                                                6
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="14"><![CDATA[Secara      alamiah     cahaya
+
+                                                                           matahari     (radiasi     gelombang
+
+                                                                           pendek)       yang        menyentuh
+                                                                           permukaan  bumi  akan  berubah
+
+                                                                           menjadi panas dan menghangatkan
+                                                                           bumi. Sebagian dari panas ini akan
+
+                                                                           dipantulkan       kembali        oleh
+
+                                                                           permukaan  bumi  ke  angkasa  luar
+                                                                           sebagai     radiasi    infra   merah
+
+                  Gambar 4. Proses Terjadinya Efek Rumah Kaca              gelombang      panjang.     Sebagian
+             Sumber: https://dlh.slemankab.go.id/pengertian-dan-         panas      sinar     matahari      yang
+                          penyebab-efek-rumah-kaca/
+                                                                         dipantulkan itu akan diserap oleh gas-
+
+         gas di atmosfer yang menyelimuti bumi dan terperangkap di atmosfer bumi. Peristiwa ini dikenal
+         dengan Efek Rumah Kaca (Green House Effect = GHE) karena peristiwanya sama dengan rumah
+
+         kaca, di mana panas yang masuk akan terperangkap di dalamnya, tidak dapat menembus ke luar
+         kaca, sehingga dapat menghangatkan seisi rumah kaca tersebut. Gas rumah kaca yang ada di
+
+         atmosfer antara lain adalah karbon dioksida (CO2), nitrogen dioksida (N2O), metana (CH), CFC,
+         dan O3 (ozon).
+
+               Kenaikan konsentrasi gas CO2 ini terjadi akibat kenaikan pembakaran   bahan bakar minyak
+
+        (BBM),  batu  bara,  dan  bahan  bakar  organik  lainnya  yang  melampaui  kemampuan  tumbuhan-
+        tumbuhan dan laut untuk mengabsorsinya.  Bahan- bahan di permukaan bumi yang  berperan  aktif
+
+        untuk mengabsorsi hasil pembakaran tadi ialah tumbuh- tumbuhan, hutan, dan laut. Jadi bila hutan
+        semakin gundul, maka panas di bumi akan semakin naik.
+
+                                                                                  Meningkatnya       konsentrasi
+
+                                                                           gas  CO2  dan  gas-gas  lain  di
+                                                                           atmosfir maka semakin banyak pula
+
+                                                                           gelombang panas yang dipantulkan
+                                                                           bumi dan diserap atmosfir.  Dengan
+
+                                                                           perkataan    lain    semakin    banya
+
+                                                                           jumlah  gas  rumah  kaca  yang
+                                                                           berada di atmosfir , maka semakin
+
+                                                                           banyak  pula  panas  matahari  yang
+
+                   Gambar 5. Penyebab Efek Rumah Kaca                      terperangkap  di  permukaan  bumi.
+             Sumber: https://dlh.slemankab.go.id/pengertian-dan-
+                                penyebab-efek-                             Akibatnya  suhu  permukaan  bumi
+                                                                           akan  naik.  Suhu  bumi  semakin
+
+        meningkat dari tahun ke tahun karena sebagian panas yang harusnya dipantulkan permukaan bumi
+
+        ditangkap oleh gas rumah kaca yang ada di atmosfer. Dalam keadaan normal, pada siang hari
+        panas matahari akan menembus atmosfer dan menyebabkan permukaan bumi menjadi hangat.
+
+        Ketika sore hari, maka panas yang menembus atmosfer akan dilepas kembali ke udara. Namun,
+        karena  kelebihan  gas-gas  yang  dapat  mengikat  panas  seperti  CO2  di  atmosfer,  menyebabkan
+
+        panas yang kembali ke udara tidak semuanya dilepaskan. Panas yang masih terperangkap tersbut
+
+                                                                                                                7
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="15"><![CDATA[menjadikan suhu pada malam hari masih terasa hangat. Semakin banyak panas matahari yang
+
+        tertangkap,  akan  menjadikan  suhu  bumi  semakin  panas.  Sehingga  mengakibatkan  fenomena
+        pemanasan global dan perubahan iklim.
+
+               Efek rumah kaca sejatinya dibutuhkan untuk menjaga suhu bumi, supaya perbedaan suhu
+        antara  siang  dan  malam  tidak  terlalu  besar.  Namun  efek  rumah  kaca  yang  berlebihan  akan
+
+        menyebabkan pemanasan global dimana suhu di bumi akan naik secara signifikan yang ditandai
+        dengan  hal-hal  antara  lain  mencairnya  es  di  kutub,  rusaknya  ekosistem,  naiknya  ketinggian
+
+        permukaan  air  laut  dan  perubahan  iklim  yang  ekstrim.  Meningkatnya  gas  rumah  kaca  tersebut
+
+        dikontribusi oleh hal-hal berikut:
+
+
+
+                                            ENERGI
+                                       pemanfaatan berbagai
+                                      macam bahan bakar fosil
+                                       atau BBM berkontribusi
+                                       besar terhadap naiknya
+                                      gas rumah kaca terutama
+                                              CO 2
+                                                                        KEHUTANAN
+                                                                      Salah satu fungsi hutan
+
+                                                                     adalah sebagai penyerap
+                                                                      emisi gas rumah kaca
+
+                                                                    karena hutan dapat merubah
+                                                                    CO2 menjadi O2. Perusakan
+
+                                                                      hutan akan berdampak
+                                                                    terhadap naiknya emisi gas
+
+                                                                          rumah kaca.
+                                      PETERNAKAN DAN
+                                         PERTANIAN
+                                    Gas rumah kaca dihasilkan
+                                      dari pemanfatan pupuk,
+                                      pembususkan sisa-sisa
+                                         makanan dan
+                                      pembususkan kotoran
+                                            ternak
+                                                                          SAMPAH
+                                                                     Sampah sebagai salah
+                                                                     satu kontributor terbesar
+                                                                      bagi terbentuknya gas
+                                                                      metan (CH 4) karena
+                                                                       aktivitas manusia
+                                                                          sehari-hari
+
+
+
+
+                        Gambar 6. Faktor yang mempengaruhi peningkatan gas rumah kaca
+
+
+
+
+              Untuk lebih lengkapnya kalian dapat melihat video dibawah ini:
+
+
+
+
+
+
+
+
+
+
+                                           Sumber: https://youtu.be/rRnH7DfJtEE
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                8
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="16"><![CDATA[2.  Emisi Karbon
+
+
+
+                                                         KBRN,  Jayapura  :  PT  PLN  (Persero)  berhasil
+                                                         mencatat  penjualan  terbaik  pada  tahun  2022
+                                                         sebesar 270,82 terawatt hour (TWh) dengan total
+                                                         85,28 juta pelanggan.
+                                                         Perolehan ini meningkat sebesar 15,75 TWh atau
+                                                         6,17  persen  dibanding  tahun  sebelumnya  yang
+                                                         hanya sebesar 255,07 TWh.
+                                                         Bahkan, capaian terbaik ini dibungkus oleh PLN
+                                                         di kala pandemi masih melanda. PLN melakukan
+                                                         berbagai langkah untuk bisa tetap menciptakan
+                                                         kinerja perusahaan yang baik. Hal itu dikatakan
+                                                         oleh  Direktur  Utama  PLN,  Darmawan  Prasodjo
+                                                         dalam  siaran  pers  yang  diterima  oleh  KBRN,
+                                                         Rabu (8/2/2023).
+
+
+                                   Gambar 7. Berita Kenaikan Penjualan Listrik di Indonesia
+               Sumber: https://www.rri.co.id/bisnis/158859/pln-catat-kenaikan-penjualan-listrik-6-17-persen
+
+               Penggunaan  Energi  listrik  yang  terus  meningkat  dapat  memperburuk  pemanasan  global
+
+         yang terjadi. Perlu diketahui bahwa sumbangan terbesar emisi karbon disebabkan oleh proses
+         produksi perangkat elektronik. Penggunaan energi listrik yang melebih batas dapat mengakibatkan
+
+         terjadinya peningkatan suhu global yang dapat menyebabkan kemungkinan cuaca ekstrim di suatu
+         wilayah.  Menurut  World  Resource  Institute  (WRI)  Indonesia  menempati  peringkat  ke-8  negara
+
+         dengan penghasil emisi karbon pada tahun 2018. Meskipun memiliki luas hutan tropis yang besar,
+
+         ternyata  karbon  yang  Indonesia  hasilkan  juga  tidak  kalah  tinggi.  Untuk  mengatasi  semakin
+         tingginya  emisi  karbon  yang  dihasilkan,  sebagai  siswa  upaya  dan  alternatif  apa  yang  akan
+
+         dilakukan untuk mengurangin emisi karbon?
+               Emisi  karbon  adalah  gas  yang  dikeluarkan  dari  hasil  pembakaran  segala  senyawa  yang
+
+        mengandung karbon seperti CO2, solar, bensin, LPG, serta bahan bakar lainnya. Fenomena emisi
+        karbon  merupakan  proses  pelepasan  karbon  ke  lapisan  atmosfer  bumi.  Saat  ini  emisi  karbon
+
+        menjadi salah satu penyumbang terjadinya perubahan iklim dan pemanasan bersamaan dengan
+
+        emisi gas rumah kaca. Keduanya menyebabkan naiknya suhu bumi atau efek rumah kaca. Untuk
+        lebih memahami masalah emisi karbon yang menyebabkan pemanasan global lakukanlah project
+
+        berikut!
+
+
+                 Ayo Kita Mengamati
+
+
+
+                  Pembuangan sampah yang tidak diurus dengan baik, akan mengakibatkan masalah
+              besar.    Karena  penumpukan  sampah  atau  membuangan  sembarangan  ke  kawasan
+              terbuka akan mengakibatkan pencemaran tanah yang juga akan berdampak ke saluran
+              air tanah. Demikian juga pembakaran sampah akan mengakibatkan pencemaran udara,
+
+              pembuangan  sampah  ke  sungai  akan  mengakibatkan  pencemaran  air,  tersumbatnya
+              saluran air dan banjir. Sampah mempunyai kontribusi besar terhadap meningkatnya emisi
+              gas rumah kaca karena penumpukan sampah tanpa diolah akan melepaskan gas metana
+              (CH4).  Setiap  1  ton  sampah  dapat    menghasilkan  50  kg  gas  metana.  Semakin
+              meningkatnya  penduduk,  maka  sampah  yang  dihasilkan  pun  akan  semakin  banyak.
+
+              Apabila tidak ada tidakan untuk menanggulanginya maka akan  semakin berdampak pada
+              pemanasan global.
+
+                                                                                                                9
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="17"><![CDATA[Amatilah  bagaimana  keadaan  dilingkungan  sekolah  Kalian,  tuliskan  hasil
+             pengamatan pada tabel yang telah disediakan.
+                                    Kondisi Yang Diamati                             Hasil Pengamatan
+              Cuaca dilingkungan sekolah
+              Kondisi suhu pada pagi hari dilingkungan sekolah
+              Pengelolaan pembuangan sampah di sekolah
+
+              Kondisi  lingkungan  sekolah  apakah  terjadi  pencemaran
+              udara atau tidak
+
+
+
+
+
+
+                 Ayo Kita Menanya
+
+
+
+                 Dari masalah yang kalian amati di atas, coba jawablah pertanyaan berikut:
+             1. Bagaimana cara menanggulangi sampah anorganik di sekolah?
+             2. Apakah dampak yang akan di timbukan dari menumpuknya sampah anorganik?
+             Jawaban:
+             ............................................................................................................................................
+
+             ............................................................................................................................................
+             ............................................................................................................................................
+             ............................................................................................................................................
+             .
+
+
+
+               Ayo Kita Menggali
+                    Informasi
+
+
+
+                   Berdasarkan kegiatan mengamati dan menanya solusi apakah yang dapat Kalian
+               berikan  untuk  menanggulangin  masalah  sampah?  Silahkan  Kalian  browsing  atau
+               membaca buku untuk mendapatkan solusi penangan sampah di lingkungan sekolah
+               dan lingkungan tempat tinggal!
+
+
+
+              Ayo Kita Menalar!
+
+
+
+                  Berikut  ini  salah  satu  contoh  project  yang  dapat  dilakukan  peserta  didik  dalam
+              menanggulangi emisi karbon .
+                  Lakukanlah project berikut secara berkelompok dan buatlah laporan hasil pekerjaan
+              kalian!
+
+                              Membuat kerajinan/pot bunga menggunakan botol plastik
+
+              1)  Alat dan Bahan
+                  •  Botol plastik bekas
+                  •  Pisai pemotong/cutter
+                  •  Cat akrilik
+                  •  Pensil gambar
+              2)  Cara membuat pot bunga lucu dari botol bekas
+                  •  Siapkan pola gambar karakter lucu yang akan tempatkan pada botol plastik.
+
+
+
+                                                                                                              10
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="18"><![CDATA[•  Misalnya pola gambar beruang, kelinci, dan kucing.
+                    •  Gambar pola pada botol plastik lalu potong dengan gunting sesuai dengan
+
+                        gambar polanya.
+                    •  Jika sudah cat potongan botol yang telah dibentuk dengan cat akralik dengan
+                        warna dasar polos
+
+                    •  Lalu tumpuki warna dasar dengan cat warna sesuai karakter pola gambar.
+                        Gambarkan mata, hidung, dan telinga pada polanya agar semakin tampak lucu
+                        dan persis kartun.
+
+                    •  Terakhir, keringkan sampai catnya tidak melumer dan pot hasil dari botol bekas
+                        sudah siap dijadikan hiasan.
+
+
+                    Setelah  Kalian  mengamati,  menanya,  menggali  informasi,  dan  berdasarkan  dari
+               project yang telah dilakukan jelaskanlah hubungan kegiatan Kalian dengan emisi karbon
+
+               dan pemanasan global!
+
+
+
+
+
+
+               Setelah Kalian melakukan project membuat kerajinan/pot bunga menggunakan botol plastik,
+
+        Apakah kesimpulan yang Kalian dapatkan? Apakah hal tersebut dapat mengurangi emisi karbon
+        yang  semakin  parah?  mari  pelajari  materi  mengenai  emisi  karbon  sebagai  tambahan  literatur
+
+        setelah kegiatan yang telah Kalian lakukan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Pembakaran Bahan Bakar                   Transportasi                     Alat Elektronik
+                        Fosil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         Penggunaan litrik berlebih                Makanan dan Minuman
+
+
+                                           Gambar 8. Penyebab Emisi Karbon
+
+               Penyebab emisi karbon yaitu aktivitas pembakaran senyawa-senyawa yang mengandung
+
+         unsur karbon. Pembakaran bahan bakar fosil di bidang industri dan manufaktur, transportasi, serta
+         emisi  yang  diperlukan  untuk  keperluan  barang  dan  jasa  yang  dikonsumsi  manusia.  Selain
+
+         penggunaan  bahan  bakar  fosil,  penggunaan  alat  elektronik  ikut  menyumbang  pelepasan  gas
+
+         karbon. Pemakaian smartphone juga turut mempengaruhi tingkat emisi karbon di udaraAktivitas
+
+                                                                                                              11
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="19"><![CDATA[yang tanpa kita sadari memiliki efek jangka panjang penyumbang emisi karbon seperti penggunaan
+
+         kendaraan pribadi, penggunaan energi listrik, dan konsumsi makanan dan minuman.
+               Untuk lebih lengkapnya kalian dapat melihat video dibawah ini:
+
+
+
+
+
+
+                                        Sumber: https://youtu.be/H01AaEecutY
+
+
+
+
+
+
+
+
+
+
+
+
+         3.  Perubahan Iklim
+
+
+                                                     Jakarta, CNN Indonesia -- Banjir yang melanda
+                                                     empat kecamatan di Kabupaten Lampung
+                                                     Selatan, Provinsi Lampung, pada Kamis
+                                                     (27/10/2022) mengakibatkan tiga orang tewas
+                                                     dan satu orang hilang.
+
+                                                     Badan Penanggulangan Bencana Daerah
+                                                     (BPBD) Lampung Selatan mencatat, banjir
+                                                     tersebut terjadi di Kecamatan Sidamulya,
+                                                     Kecamatan Katibung, Kecamatan Candipulo dan
+                                                     Kecamatan Kalianda.
+
+                                                     Banjir akibat hujan dengan intensitas sedang
+                                                     sampai tinggi tersebut merendam sebanyak 697
+                                                     rumah yang ditinggali oleh kurang lebih 697 KK
+                                                     (kepala keluarga).
+
+
+                                    Gambar 8. Berita Banjir yang Melanda di Lampung
+
+          Sumber: https://www.cnnindonesia.com/nasional/20221029075815-20-866832/banjir-lampung-selatan-
+                                                     Baca artikel CNN Indonesia "Banjir Lampung
+                                        telan-3-korban-jiwa-1-orang-masih-hilang
+                                                     Selatan Telan 3 Korban Jiwa, 1 Orang Masih
+
+                                                     Hilang" selengkapnya di
+               Peningkatan suhu global yang terjadi dalam beberapa dekade terakhir turut mendongkrak
+                                                     sini: https://www.cnnindonesia.com/nasional/202
+                                                     21029075815-20-866832/banjir-lampung-
+        jumlah bencana yang terkait dengan cuaca dan air seperti banjir, kekeringan, kebakaran hutan, dan
+                                                     selatan-telan-3-korban-jiwa-1-orang-masih-
+        sebagainya.  Banjir  menjadi  bencana  alam  yang  paling  sering  melanda  pada  2022,  yakni  1.520
+                                                     hilang.
+        peristiwa. Cuaca ekstrem juga menjadi bencana alam yang banyak terjadi sepanjang tahun lalu
+
+                                                     Download Apps CNN Indonesia sekarang
+        mencapai  1.057  kejadian.  Setelahnya  ada  tanah  longsor  yang  tercatat  sebanyak  634  kejadian.
+                                                     https://app.cnnindonesia.com/
+        Sebanyak 252 kejadian kebakaran hutan dan lahan (karhutla) juga terjadi di Indonesia sepanjang
+        tahun lalu. Sebagi seorang siswa apa tanggapan Kalian tentang bencana yang terjadi di Indonesia?
+        dan upaya apa yang akan Kalian lakukan untuk mengurangi terjaidan bencana alam?
+
+               Perubahan  iklim  terjadi  akibat  adanya  perubahan  lingkungan.  Perubahan  iklim  (climate
+
+        change) adalah kondisi beberapa unsur iklim yang magnitude dan atau intensitasnya cenderung
+        berubah atau menyimpang dari dinamika dan kondisi rata-rata. Penyebab utama perubahan iklim
+
+        adalah kegiatan manusia (antropogenik) yang berkaitan dengan meningkatnya emisi gas rumah
+                                                                                                              12
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="20"><![CDATA[kaca. Dampak perubahan iklim semakin dirasakan di Indonesia. Perubahan iklim menyebabkan
+
+        bencana seperti banjir, longsor, kemarau panjang, angin kencang dan gelombang air laut tinggi.
+        Untuk memahami dampak dari perubahan iklim lakukanlah project berikut!
+
+
+
+               Ayo Kita Mengamati
+
+
+
+
+
+                  Perubahan ilkim menyebabkan frekuensi bencana alam di dunia meningkat drastis
+             Saat ini yang ditakuti dunia bukan lagi pandemi, bukan lagi perang. Tetapi, yang lebih
+             mengerikan  yang  ditakuti  semua  negara  adalah  perubahan  iklim,"  ucap  Jokowi  dalam
+             pembukaan Rakornas BNPB 2023, di Jakarta, Kamis 92/3) dan indonesia menempati tiga
+             teratas paling rawan bencana. Indonesia mengalami kenaikan 81% frekuensi bencana
+             alamnya. Lonjakan itu terjadi dalam 12 tahun terakhir, pada 2010 terjadi sebanyak 1,945
+             bencana dan 2022 melonjak menjadi 3,544. Bencana Banjir, kekeringan panjang, tanah
+             longsor,  kebakaran  hutan  yang  terjadi  di  Indonesia  berkaitan  dengan  terjadinya
+             perubahan iklim di dunia. Umumnya perubahan iklim yang terjadi di Indonesia berkisar
+             pada penggundulan hutan secara besar-besaran, kebakaran hutan, kerusakan lahan rawa
+             dan hilangnya serapan karbondioksida.
+                  Amatilah bagaimana keadaan di lingkungan sekolah dan lingkungan tempat tinggal
+             Kalian.Tuliskan hasil pengamatan pada tabel yang telah disediakan.
+                                  Kondisi Yang Diamati                          Hasil Pengamatan
+              Pergantian musim hujan dan kemarau
+              Suhu dilingkungan Sekolah pada siang hari
+              Kondisi yang sering terjadi dilingkungan sekolah
+
+
+
+
+
+
+
+
+                 Ayo Kita Menanya
+
+
+
+
+                Dari masalah yang kalian amati di atas, coba jawablah pertanyaan berikut:
+            1. Bagaimana  cara  kita  sebagai  siswa  untuk  dapat  membantu  menanggulangi  masalah
+                tersebut?
+            2. Apakah  dampak  yang  akan  ditimbukan  jika  masalah  tersebut  terjadi  secara  terus
+                menerus?
+            Jawaban:
+            .................................................................................................................................................
+            .................................................................................................................................................
+            .................................................................................................................................................
+            .................................................................................................................................................
+
+
+
+
+
+               Ayo Kita Menggali
+                    Informasi
+
+
+
+                Berdasarkan kegiatan mengamati dan menanya solusi apakah yang dapat siswa berikan
+            untuk menanggulangi masalah perubahan iklim? Silahkan Kalian  browsing atau membaca
+            buku untuk mendapatkan apakah solusi yang dapat siswa lakukan untuk menanggulangan
+            perubahan iklim di lingkungan sekolah dan lingkungan tempat tinggal!
+
+
+
+
+
+                                                                                                              13
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="21"><![CDATA[Ayo Kita Menalar!
+
+
+
+                   Berikut  ini  salah  satu  contoh  project  yang  dapat  dilakukan  peserta  didik  dalam
+               menanggulangi perubahan iklim.
+
+                   Lakukanlah project berikut secara berkelompok dan buatlah laporan hasil pekerjaan
+               kalian!
+
+                 Membuat poster Menanggulangi Perubahan Iklim di Lingkungan Sekolah dan
+                                                    Tempat Tinggal
+
+
+                1) Alat dan Bahan
+                    •   Aplikasi seperti Canva, Pixelab atau yang lainnya
+                    •   Materi sebagai acuan
+
+                2) Cara Melakukan
+                    •   Buka aplikasi Canva di HP.
+                    •   Buat akun atau login jika sudah mempunyai akun Canva.
+                    •   Pilih template desain Poster.
+
+                    •   Ubah/atur ukuran poster
+                    •   Masukkan gambar dan kalimat sesuai keinginan.
+                    •   Tambahkan elemen lain yang diperlukan.
+                    •   Simpan poster saat sudah selesai.
+
+
+                   Setelah  Kalian  mengamati,  menanya,  menggali  informasi  dan  berdasarkan  dari
+               project yang telah dilakukan jelaskanlah hubungan kegiatan kalian dengan perubahan
+               iklim dan pemanasan global!
+
+
+
+
+
+
+                      Ayo Kita
+               Mengkomunikasikan
+
+
+
+                Setelah melakukan project dan membuat laporan, lakukanlah presentasi di depan kelas
+            hasil project yang telah kelompok anda lakukan yaitu tentang apa yang kelompok anda pahami
+            tentang pengaruh dari perubahan iklim terhadap terjadinya pemanasan global.
+
+
+
+
+
+               Setelah  Kalian  melakukan  project
+
+        membuat  poster  menanggulangi  perubahan
+        iklim  di  lingkungan  sekolah  dan  tempat
+
+        tinggal,  Apakah  kesimpulan  yang  Kalian
+        dapatkan?  Apakah  hal  tersebut  dapat
+
+        mengurangi  dampak  perubahan  iklim  yang
+
+        semakin parah? mari pelajari materi mengenai
+        perubahan  iklim  sebagai  tambahan  literatur
+
+        setelah kegiatan yang Kalian lakukan.
+
+                                                                     Gambar 9. Perubahan Iklim
+                                                 Sumber: https://www.liputan6.com/hot/read/4945700/7-bukti-
+                                                      nyata-perubahan-iklim-di-google-earth-beda-banget
+
+                                                                                                              14
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="22"><![CDATA[Perubahan pola curah hujan, peningkatan frekuensi kejadian iklim ekstrem, serta kenaikan
+
+         suhu udara dan permukaan air laut merupakan dampak serius dari perubahan iklim. Perubahan
+         curah hujan menyebabkan pergeseran musim kemarau dan hujan menyebabkan pola tanam padi
+
+         saat  ini  tidak  sesuai  lagi  seperti  pada  masa-masa  sebelumnya.  Kenaikan  suhu  secara  global
+         diperkirakan  dapat  menimbulkan  perubahan  iklim  dan  menaikkan  tinggi  permukaan  laut  serta
+
+         punahnya berbagai macam flora dan fauna, berpengaruh terhadap hasil pertanian, dan hilangnya
+         gletser.  Dampak  lebih  luasnya  tidak  saja  merusak  lingkungan  tetapi  juga  membahayakan
+
+         kesehatan manusia, mengganggu ketersediaan bahan pangan, kegiatan pembangunan ekonomi,
+
+         pengelolaan  sumberdaya  alam,  dan  infrastruktur.  Serta  dapat  menjadi  ancaman  terhadap
+         keberhasilan pencapaian pembangunan sosial ekonomi Indonesia.
+
+
+                                      Faktor-faktor Penyebab Perubahan Iklim
+
+
+        “Aktivitas Manusia”
+
+                                                               Pembuangan          sampah         sembarangan,
+
+                                                               penggunaan  liStrik,  pemakaian  kendaraan
+                                                               bermotor      &     pembakaran       di    pabrik
+
+                                                               meningkatkan emisi karbon dioksida.
+
+
+                                                               Gambar 10. Aktivitas Manusia
+                                                               Sumber: https://www.kabarpendidikan.id/
+
+        “Peningkatan Gas Rumah Kaca”
+
+                                                              Gas  Rumah  Kaca  dapat  menyerap  serta
+                                                              memantulkan       radiasi   matahari     sehingga
+
+                                                              membuat suhu bumi memanas.
+
+
+                                                              Gambar 11. Peningkatan GRK
+                                                              Sumber: https://www.nesabamedia.com
+
+
+
+        “Pemanasan Global”
+
+                                                               Kenaikan     suhu     bumi    disebabkan     oleh
+
+                                                               peningkatan emisi gas karbon dan gas rumah
+                                                               kaca lainnya
+
+
+
+
+                                                               Gambar 12. Pemanasan Global
+                                                               Sumber: https://www.kompasiana.com/
+
+
+
+
+
+
+
+                                                                                                              15
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="23"><![CDATA[“Kerusakan Fungsi Hutan”
+
+                                                              Penebangan  hutan  dapat  mengurangi  jumlah
+                                                              penangkapan karbon  dioksida di bumi
+
+
+
+
+
+                                                              Gambar 13. Kerusakan Fungsi Hutan
+                                                              Sumber: https://www.kompas.com/
+
+
+
+
+
+
+
+            Untuk lebih lengkapnya kalian dapat melihat video dibawah ini:
+
+
+
+
+
+
+
+
+
+
+
+
+                                          Sumber: https://youtu.be/X3YhkXOyiGU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                              16
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="24"><![CDATA[C.  DAMPAK PEMANASAN GLOBAL
+
+               Pemanasan global yang terus menerus dapat menimbulkan kerusakan-kerusakan. Tanaman
+        dan  binatang  yang  hidup  di  dalam  laut  menjadi  terganggu.  Binatang  dan  tumbuhan  di  daratan
+
+        terdorong  untuk  berpindah  ke  habitat  yang  baru.  Pola  cuaca  menjadi  berubah  menyebabkan
+        tibulnya banjir besar, kekeringan, angin kencang, dan badai yang besar. Mencaimya es di kutub
+
+        mengakibatkan  peningkatan  tinggi  permukaan  air  laut.  Penyakit-penyakit  menyerang  manusia
+        secara meluas dan terjadi penurunan hasil panen di beberapa wilayah. Dampak dari pemanasan
+
+        global diantaranya sebagai berikut:
+
+         a.  Gangguan Cuaca
+               Kondisi  cuaca  yang  ekstrim  bisa  sering  terjadi  sehingga  lebih  menambah  daya  rusak.
+
+         Perubahan pola hujan dapat meningkatkan banjir dan kekeringan di beberapa daerah. Angin ribut
+         dan badai tropis bisa muncul dengan kekuatan yang lebih besar.
+
+         b.  Tinggi permukaan air laut
+               Peningkatan suhu global selama berabad-abad telah mencairkan sejumlah besar es yang
+
+         melapisi sebagian besar antartika. Akibatnya tinggi permukaan air laut menjadi naik di seluruh
+
+         dunia. Banyak wilayah pantai yang kebanjiran, erosi, hilangnya daratan dan masuknya air laut ke
+         wilayah air tawar. Peningkatan permukaan air laut yang tinggi dapat menenggelamkan kota-kota,
+
+         pantai, negara kepulauan kecil, dan wilayah-wilayah yang tidak dihuni lainnya.
+
+         c.  Pertanian
+               Dampak pemanasan global yang paling berpengaruh terhadap produksi tanaman antara lain
+
+         adalah kekeringan, penurunan/ peningkatan curah hujan, dan peningkatan suhu udara. Belahan
+         bumi selatan mungkin akan mengalami keuntungan dari peningkatan suhu. Namun peningkatan
+
+         yang terjadi tidak sebanding dengan kerugian yang disebabkan oleh kekeringan dan kenaikan suhu
+         terutama  apabila  melebihi  beberapa  derajad  celsius.  Panen  di  wilayah  tropis  menurun  drastis
+
+         karena suhu sedemikian tingginya sehingga tidak dapat ditolerir oleh tanaman.
+
+         d.  Hewan dan tumbuhan
+               Hewan  dan  tumbuhan  merupakani  makhluk  hidup  yang  sulit  menghindar  dari  efek
+
+         pemanasan  global  karena  sebagian  besar  lahan  dikuasai  manusia.  Pemanasan  global
+         menyebabkan hewan bermigrasi ke arah kutub atau pegunungan. Tumbuhan akan mengubah arah
+
+         pertumbuhannya dan mencari daerah baru karena habitat lamanya menjadi terlalu hangat. Namun
+         pembangunan manusia menghalangi perpindahan. Akibatnya spesies yang bermigrasi terhalangi
+
+         oleh kota atau lahan pertanian meyebabkan beberapa tipe spesies akan musnah.
+
+         e.  Kesehatan Manusia
+               Penyakit-penyakit tropis seperti malaria dan demam dapat menyebar kewilayah yang lebih
+
+         luas.  Penderita  kanker  kulit  juga  meningkat.  Gelombang  panas  yang  terus  menerus  dapat
+
+         menyebabkan  penyakit  dan  kematian.  Banjir  dan  kekeringan  meningkatkan  kelaparan  dan
+         kekurang gizi.
+
+
+         D.  ALTERNATIF SOLUSI
+
+                Untuk  mengurangi  pemanasan  global  adalah  dengan  mengurangi  penggunaan  energi
+         secara signifikan. Hal-hal kecil yang dapat kita lakukan adalah:
+
+
+                                                                                                              17
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="25"><![CDATA[a.  Daur Ulang/menggunakan kembali
+
+            1)  Memperhatikan  kebiasaan  konsumen,  dan  membeli  atau  menggunakan  barang-barang
+                yang tidak dipaket. Mencari merk yang memperhatikan lingkungan dan sabun-sabun dan
+
+                agen-agen pembersih.
+            2)  Mendaur ulang segala yang dapat didaur  ulang: plastik, kupasan buah segar dan sayur
+
+                mayur, kertas dan kardus, gelas dan kaleng.
+            3)  Membuat kompos. Tambahkan cacing dan juga daun-daun, ranting-ranting dan kotoran dari
+
+                kebun dan kompos itu akan menjadi pupuk alami untuk tanah.
+
+            4)  Mendorong industri kerajinan untuk menjalankan tanggung jawab bagi daur ulang bahan-
+                bahan sisa dan alat-alat elektro seperti tv dan komputer.
+
+
+         b.  Menghemat Energi
+
+            1)  Hemat dalam menggunakan air, dan energi listrik.
+            2)  Mengurangi pembakaran barang-barang yang tidak dapat didaur ulang.
+
+            3)  Mengurangi emisi CFC dan emisi pengganti CFC dengan tidak menggunakan aerosol dan
+
+                menggunakan energi efisien.
+            4)  Mengurangi penggunakan listrik dengan menggunakan lampu hemat energi.
+
+
+
+         c.  Mencegah Kerusakan
+            1)  Pemerintah  setempat  akan  komitmen  mereka  untuk  mendaur  ulang  dan  mengurangi
+
+                pemborosan serta mempertahankan hukum daur ulang dan pemborosan agar tetap relevan.
+            2)  Mendorong pengusaha setempat agar mengurangi produk-produk paket.
+
+            3)  Mengingatkan  otoritas  setempat  untuk  memelihara  listrik  dan  menggunakannya  dalam
+                system yang efisien.
+
+            4)  Mengingatkan  pemerintah  akan  komitmen  mereka  pada  deklarasi  dan  protokol-protokol
+
+                demi lingkungan hidup.
+            5)  Mengingatkan siapa saja agar hidup sederhana di bumi ini dan mengingatkan agar selalu
+
+                menggunakan dan mendaur ulang barang yang digunakan.
+            6)  Memulihkan hutan/penghijauan kembali.
+
+            7)  Menata Pembangunan yang berwawasan lingkungan.
+            8)  Rehabilitasi hutan dan lahan kritis, Pencagaran rosot karbon: Taman nasional, cagar alam
+
+                dan hutan lindung.
+
+            9)  Reduksi Emisi bersertifikat (RES).
+            10) Melaksanakan Protokol Kyoto
+
+
+
+         E.  KESEPAKATAN DUNIA INTERNASIONAL
+               Kekhawatiran akan adanya kerusakan lingkungan hidup yang dapat mengurangi kualitas dan
+
+         kenyamanan makin terasa saat ini. Polusi, efek rumah kaca, pemanasan global, kenaikan suhu
+         bumi, dan perubahan garis pantai menambah kekhawatiran. Hal tersebut membuat pemerintah
+
+         mengambil  tindakan  berupa  kesepakatan-kesepakatan  internasional  guna  menyelesaikan  dan
+         menanggulangi  permasalahan  tersebut.  Beberapa  kesepakatan  dunia  internasional  mengenai
+
+         pemanasan global diantaranya:
+                                                                                                              18
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="26"><![CDATA[a.  Intergovernmental Panel on Climate Change (IPCC)
+
+               Intergovernmental Panel on Climate Change (IPCC) atau "Panel Antar pemerintah Tentang
+         Perubahan Iklim" adalah suatu panel ilmiah yang terdiri dari para ilmuwan dan ahli dari berbagai
+
+         disiplin ilmu dari seluruh dunia. IPCC didirikan pada tahun 1988 oleh dua organisasi PBB, World
+         Meteorological Organization (WMO) dan United Nations Environment Programme (UNEP) untuk
+
+         mengevaluasi  risiko  perubahan  iklim  akibat  aktivitas  manusia,  dengan  meneliti  semua  aspek
+         berdasarkan pada literatur teknis/ilmiah yang telah dikaji dan dipublikasikan. Panel ini terbuka untuk
+
+         semua  anggota  WMO  dan  UNEP.  Terdapat  6  skenario  yang  dibuat  IPCC  untuk  melakukan
+
+         penanggulangan perubahan iklim yang tiap skenario berisikan tentang skenario untuk populasi,
+         pertumbuhan  ekonomi,  dan  persediaan  energi.  IPCC  bersekretariatan  di  Jenewa  Swiss  dan
+
+         bertemu setiap satu tahun sekali dalam sidang pleno yang membahas tiga hal utama yaitu:
+         1)  Informasi ilmiah tentang perubahan iklim
+
+         2)  Dampak, adaptasi, dan kerentanan
+         3)  Mitigasi perubahan iklim
+
+
+
+         b.  Protokol Kyoto
+               Protokol Kyoto  merupakan Pertemuan negara-negara  anggota  PBB yang  berlangsung di
+
+         Kyoto, Jepang pada Desember 1997. Protokol Kyoto adalah kelanjutan dari program UNFCCC
+
+         yang telah dicanangkan  5 tahun yang lalu. Protokol Kyoto adalah sebuah persetujuan internasional
+         di  bawah  koordinasi  PBB  yang  membahas  masalah  “pemanasan  global”.  Protol  Kyoto  juga
+
+         menganjur tiga mekanisme kerja yang telah mendapatkan kesepakatan bersama, yaitu:
+         1)  Joint Implementation (JI), yaitu kerjasama antarnegara maju untuk mengurangi emisi gas rumah
+
+            kaca yang mereka hasilakan.
+         2)  Clean Development Mechanism (CDM), yaitu mekanisme pembangunan bersih berdasarkan
+
+            win-win solution antara negara maju dan negara berkembang.
+
+         3)  Emission  Trading (ET), yaitu perdaganan emisi antara sesama negara maju.
+
+
+         c.  APPCDC (Asia-Pacific Partnership on Clean Development and Climate)
+               APPCDC  (Asia-Pacific  Partnership  on  Clean  Development  and  Climate)  diumumkan
+
+         APCCDC pembentukannya pada bulan juli 2005, peluncuran resmi di Sydney pada januari 2006.
+         Kemitraan ini dibentuk oleh tujuh negara yaitu, Australia, China, India, Jepang, Republik Korea,
+
+         Amerika Serikat dan Kanada. Tujuan APCCDC adalah mengatasi polusi udara, keamanan energi,
+
+         energi  bersih,  intensitas  gas  rumah  kaca  dengan  cara  memfasilitasi  pengembangan  dan
+         pemberantasan kemiskinan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                              19
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="27"><![CDATA[RANGKUMAN
+
+
+
+                     Rangkuman materi pada kegiatan belajar ini adalah sebagai berikut:
+              1.  Pemenasan  global  adalah  suatu  keadaan  ketidakseimbangan  ekosistem  di  bumi  akibat
+                  terjadinya proses peningkatan temperatur rata-rata atmosfer, laut, dan daratan di bumi.
+
+              2.  Efek  rumah  kaca  adalah  terperangkapnya  panas  matahari  oleh  atmosfer  bumi  dan
+                  menyebabkan suhu bumi menjadi panas.
+              3.  Meningkatnya gas rumah kaca tersebut dikontribusi oleh Pemanfaatan berbagai macam energi
+
+                  seperti bahan bakar fosil dan BBM, perusakan hutan, pembusukan sisa-sisa atau kotoran dari
+                  pertanian dan peternakan, dan sampah.
+              4.  Emisi  karbon  adalah  gas  yang  dikeluarkan  dari  hasil  pembakaran  segala  senyawa  yang
+
+                  mengandung karbon seperti CO2, solar, bensin, LPG, serta bahan bakar lainnya.
+              5.  Penyebab  emisi  karbon  yaitu  aktivitas  pembakaran  senyawa-senyawa  yang  mengandung
+
+                  unsur karbon. Pembakaran bahan bakar fosil di bidang industri dan manufaktur, transportasi,
+                  serta emisi yang diperlukan untuk keperluan barang dan jasa yang dikonsumsi manusia.
+              6.  Perubahan iklim (climate change) adalah kondisi beberapa unsur iklim yang magnitude dan
+
+                  atau intensitasnya cenderung berubah atau menyimpang dari dinamika dan kondisi rata-rata.
+              7.  Faktor-faktor Penyebab Perubahan Iklim yaitu aktivitas manusia, peningkatan gas rumah kaca,
+
+                  pemanasan global, dan kerusakan fungsi hutan.
+              8.  Pemanasan  global  berdampak  pada  gangguan  cuaca,  tinggi  permukaan  laut,  pertanian,
+                  tumbuhan dan hewan, dan kesehatan manusia.
+              9.  Solusi untuk menanggulangi pemanasan global yaitu dengan mendaur ulang/menggunakan
+
+                  kembali, mengurangi, dan mengingatkan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                              20
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="28"><![CDATA[EVALUASI
+
+
+              Setelah mempelajari seluruh kegiatan belajar, untuk mengetahui sejauh mana pemahaman
+
+        Kalian tentang materi pemanasan global. Kerjakanlah evaluasi berikut ini dengan sungguh-sungguh
+        agar mendapatkan hasil yang memuaskan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                              21
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="29"><![CDATA[REMIDIAL
+
+
+              Jawablah  pertaanyaan-pertanyaan  dibawah  ini  secara  mandiri  untuk  memperluas
+
+        pemahaman Kalian tentang materi pemanasan global!
+
+
+         1.  Laju pemanasan global semakin cepat dan dikhawatirkan meningkatkan frekuensi cuaca ektrim.
+            Suhu di permukaan  bumi meningkat  dan  berkontribusi  25%  dari  total  kenaikan suhu  global
+
+            dalam satu abad terakhir. Suhu permukaan bumi rata-rata naik 0,9 derajat celcius dari tahun
+
+            1900 hingga 2022. Bagaimanakah cara Kalian untuk mengurangi laju pemanasan global?
+         2.  Global  Warming  atau  pemanasan  global  mempunya  dampak  yang  sangat  signifikan  pada
+
+            kehidupan manusia. Dampak yang ditimbulkan dari pemanasan global sangat berbahaya bagi
+            kehidupan,  seperti  pemanasan  global  akan  meningkatkan  suhu  dipermukaan  bumi,  memici
+
+            terjadinya kekeringan, dan memicu terjadinya kebakaran hutan. Berdasarkan uraian tersebut
+            kita tahu bahwa pemanasan global memilik banyak dampak negatif pada kehidupan, namun
+
+            apakah ada manfaat dari pemanasan global? jika ada apakah manfaat dari pemanasan global?
+
+         3.  Jumlah flora dan fauna di hutan semakin tahun semakin  berkurang jumlahnya. hal tersebut
+            salah satunya terjadi karena efek dari pemansa global. lebih dari separuh spesies tumbuhan
+
+            dan sepertiga spesies hewan akan menciut tempat hidupnya pada tahun 2080. Menurut riset,
+
+            55 persen tumbuhan dan 35 persen hewan akan menciut tempat hidupnya akibat pemanasan
+            global.  Berdasarkan  uraian  diatas  bagaiaman  pemanasan  global  dapat  meyebabkan
+
+            kepunahan pada beberapa spisies?
+         4.  Seluruh  makhluk  hidup  membutuhkan  air  untuk  bertahan  hidup.  Bumi  kita  70  persennya
+
+            tertutupi oleh air, namun hanya 3 persennya yang merupakan air tawar. 3 persen air tersebut
+            digunakan oleh seluruh makhluk hidup di Bumi. Perubahan ilkim berdampak pada ketersedian
+
+            air bersih. Banyak studi yang mengatakan bahwa perubahan iklim menyebabkan meningkatnya
+
+            temperatur  dan  berdampak  negatif  pada  ketersedian  air.  Mengapa  perubahan  iklim  dapat
+            menyebabkan berkurangnya sumber daya air dan apa hubungannya perubahan iklim dengan
+
+            krisis air bersih?
+         5.  Sebagai seorang siswa apakah yang bisa Kalian lakukan untuk mengurangi pemanasan global?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                              22
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="30"><![CDATA[PENGAYAAN
+
+
+
+                                                             JAKARTA,       KOMPAS.com          -   Indonesia
+                                                             merupakan  salah  satu  negara  yang  sangat
+                                                             rentan terhadap krisis iklim, terutama bencana
+                                                             banjir dan panas yang ekstrem. Selama 2022,
+                                                             Indonesia  telah  mengalami  3.544  bencana,
+                                                             sekitar  90  persen  di  antaranya  bencana
+                                                             hidrometeorologi.  Sementara  menurut  Badan
+                                                             Meteorologi,     Klimatologi,   dan     Geofisika
+                                                             (BMKG),  tren  bencana  hidrometeorologi
+                                                             Indonesia  telah  mengalami  peningkatan
+                                                             selama  40  tahun  terakhir.  Bank  Indonesia
+                                                             menganalisis, kerugian ekonomi akibat cuaca
+                                                             ekstrem mencapai lebih dari Rp 100 triliun per
+                                                             tahun.  Oleh  karena  itu,  Juru  Kampanye  Iklim
+                                                             dan  Energi  Greenpeace  Indonesia  Adila
+                                                             Isfandiari  mendesak  Pemerintah  Indonesia
+                                                             harus segera mengambil aksi nyata ambisius.
+                                                             "Kita masih punya peluang jika kita melakukan
+                                                             aksi iklim yang ambisius. Di antaranya dengan
+                                                             percepatan  transisi  energi,"  ujar  Adila  seperti
+                                                             dikutip  Kompas.com,  dari  laman  Greenpeace
+                                                             Indonesia, Rabu (22/3/2023).
+
+
+                                        Gambar 14. Berita Krisis iklim di Indonesia
+                 Sumber: https://lestari.kompas.com/read/2023/03/22/214914186/terancam-krisis-iklim-
+                                         indonesia-harus-percepat-transisi-energi
+
+
+              Mengutip Panel Antar-pemerintah untuk Perubahan Iklim Perserikatan Bangsa-Bangsa (IPCC)
+        yang  merilis  laporan  teranyar  AR6  Synthesis  Report  mengenai  situasi  iklim  terkini,  Senin
+
+        (20/3/2023), disebutkan bahwa krisis iklim yang disebabkan oleh manusia (human-caused climate
+        change)  telah  terjadi  secara  cepat.  Perubahan  iklim  sangat  berpengaruh  terhadap  terjadinya
+
+        pemanasan global di dunia. Berdasarkan berita di atas bagaimana upaya untuk menangani masalah
+        perubahan iklim tersebut? dan alternatif apa yang bisa peserta didik lakukan untuk mengurangi
+
+        dampak perubahan ilkim pada pemanasan global.
+
+              Perubahan iklim adalah perubahan pola cuaca jangka panjang yang terjadi dalam skala global.
+        Efek  pemanasan  akibat  perubahan  iklim  bersifat  multisektoral  dan  memengaruhi  kualitas  hidup
+
+        manusia dan lingkungan. Berbagai studi yang telah dilakukan oleh para ahli menunjukkan bahwa
+        selain  dampak  lingkungan  yang  dapat  diamati  secara  langsung,  pemanasan  global  akibat
+
+        perubahan iklim juga memengaruhi sektor kesehatan, ekonomi, dan sosial, serta memiliki dampak
+        global bagi kelangsungan hidup di permukaan bumi secara umum.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                              23
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="31"><![CDATA[Lakukanlah project berikut secara berkelompok untuk meningkatkan pemahaman Kalian
+          terhadap materi pemanasan global!
+
+
+
+
+             Ayo Kita Mengamati
+
+
+
+
+
+                  Indonesia darurat sampah, salah satu masalah terbesar yang tengah dihadapi oleh
+             dunia adalah pengolahan sampah termasuk di level sampah rumah tangga. Berbagai
+             program  yang  diluncurkan  untuk  mengatasi  permasalahan  sampah,  belum    juga
+             menunjukkan hasil. Sampah dari rumah tangga merupakan penghasil sampah terbesar
+             dibandingkan dengan sumber sampah yang lainnya, yaitu sebesar 36%, lebih besar dari
+             timbulan sampah dari pasar tradisional yang hanya 24% (Data Adipura KLHK 2015 -
+             2016). Dari presentase sampah rumah tangga tersebut 57% didominasi oleh sampah
+             organik  yang  didominasi  oleh  sampah  sisa  makanan,  kayu,  ranting  dan  daun
+             (ppid.menlhk.go.id/). Besarnya presentasi sampah rumah tangga merupakan masalah
+             yang  dapat  berpengaruh  pada  lingkungan  yaitu  pemanasan  global.  Sampah  rumah
+             tangga yang tidak dikelola dengan baik dapat menghasilkan emisi karbon yang dapat
+             memperburuk masalah pemanasan global didunia. Hal tersebut merupakan masalah
+             yang harus dihadapi bersama oleh masyarakat dan pemerintah.
+                  Amatilah bagaimana keadaan di lingkungan sekolah dan lingkungan tempat tinggal
+             kalian, apakah sampah di lingkungan sekolah dan tempat tinggal sudah sudah dikelola
+             dengan baik? dan apakah udara di lingkungan sekolah dan lingkungan tempat tinggal
+             masih terasa segar dipagi hari?
+
+
+
+
+
+
+
+               Ayo Kita Menanya
+
+
+
+
+                Dari masalah yang Kalian amati di atas, coba jawablah pertanyaan berikut:
+            1. Bagaimana cara menanggulangi sampah rumah tangga (organik)?
+            2. Apakah dampak yang akan di timbukan dari menumpuknya sampah rumah tangga
+                (organik)?
+            Jawaban:
+            ............................................................................................................................................
+            ............................................................................................................................................
+            ............................................................................................................................................
+            ....................................................................
+
+
+
+
+             Ayo Kita Menggali
+                   Informasi
+
+
+
+
+               Berdasarkan  kegiatan  mengamati  dan  menanya  solusi  apakah  yang  dapat  Kalian
+           berikan  untuk  menanggulangi  sampah?  Silahkan  Kalian  browsing  atau  membaca  buku
+           untuk  mendapatkan  solusi  tentang  penangan  sampah  rumah  tangga  untuk  mencegah
+           terjadinya pemanasan global!
+
+
+
+
+
+
+
+
+
+                                                                                                              24
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="32"><![CDATA[Ayo Kita Menalar!
+
+
+
+
+
+
+                   Lakukanlah  project  berikut  secara  berkelompok  dan  buatlah  laporan  hasil
+               pekerjaan kalian!
+
+                                Membuat Pupuk Kompos Menggunakan Daun Kering
+
+                1) Alat dan Bahan
+                    •  Wadah seperti ember besar atau tong beserta tutupnya
+                    •  Sampah organik seperti potongan sayuran, kulit buah, kulit telur, dedaunan,
+                       dan sebagainya
+                    •  Tanah
+                    •  Air secukupnya
+                    •  Kapur pupuk cairan EM4.
+                2) Cara membuat pupuk kompos
+                    •  Masukkan tanah ke dalam ember atau tong hingga dasarnya tertutup.
+                    •  Masukkan sampah organik yang telah dipotong kecil ke dalam tong.
+                    •  Tutup dengan tanah kembali dengan ketebalan yang tidak terlalu tinggi.
+                    •  Siram dengan air di permukaan tanahnya secukupnya saja.
+                    •  Siram kembali dengan air campuran EM4.
+                    •  Tutup lagi dengan lapisan tanah.
+                    •  Tutup wadah tong rapat-rapat.
+                    •  Simpan di tempat teduh yang tidak terkena sinar matahari hingga 2 pekan.
+                    •  Jika  bentuknya  sudah  menjadi  seperti  tanah  gembur,  pupuk  kompos  siap
+                       digunakan.
+                    •  Pastikan  bahan  organik  pembuat  pupuk  kompos  tidak  bercampur  dengan
+                       plastik, kaca, aluminium, kaleng, botol, dan kertas aluminium foil. Ketika masa
+                       pengomposan dilakukan,  pastikan  tong  tidak kemasukan  atau  terendam  air
+                       hujan.
+
+                    Setelah Kalian mengamati, menanya, menggali informasi dan berdasarkan project
+               yang telah dilakukan jelaskan hubungan kegiatan Kalian dengan pemananasan global!
+
+
+
+
+
+
+
+
+                    Ayo Kita
+             Mengkomunikasikan
+
+
+
+
+               Setelah melakukan project dan membuat laporan, lakukanlah presentasi di depan kelas
+           hasil project yang telah kelompok anda lakukan yaitu tentang apa yang kelompok anda pahami
+           tentang pengaruh sampah rumah tangga terhadap pemanasan global.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                              25
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="33"><![CDATA[Setelah Kalian melakukan project pengayaan yaitu membuat pupuk kompos menggunakan
+
+        daun kering, Apakah kesimpulan yang Kalian? Apakah hal tersebut dapat mengurangi dan menjaga
+        agar  bumi  tidak  mengalami  pemanasan  global  yang  semakin  parah?.  Mari  pelajari  materi
+
+        pemanasan global sebagai tambahan literatur setelah kegiatan yang Kalian lakukan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          Gambar 15. limbah sampah pabrik
+            Sumber: https://tribunmanadotravel.tribunnews.com/2020/06/05/menyedihkan-ini-12-potret-
+               kondisi-bumi-akibat-pemanasan-global-dampaknya-dirasakan-seluruh-dunia?page=all
+
+
+
+               Kondisi bumi semakin memburuk dan pemanasan global masih menjadi masalah utama.
+        Akhir-akhir  ini  persoalan  lingkungan  hidup  kembali  menjadi  sorotan  dunia  terkait  dengan
+
+        meningkatnya gas rumah kaca yang berdampak kepada meningkatnya pemanasan global (global
+        warming)  yang  berakibat  pada  meningkatnya  suhu  permukaan  bumi.  Perubahan  iklim  akibat
+
+        pemanasan global menjadi kendala dalam berbagai sektor dalam kehidupan manusia. Perubahan
+
+        iklim akan berdampak terhadap penciutan dan degradasi (penurunan fungsi) sumberdaya lahan, air
+        dan infrastruktur terutama irigasi, yang menyebabkan terjadinya ancaman kekeringan.
+
+               Pemanasan  global  membangkitkan  gejala  perubahan  iklim  dapat  menimbulkan  bencana
+        lingkungan  baik  dari  yang  paling  kecil  maupun  sampai  yang  paling  dahsyat  yang  berpotensi
+
+        meluluhlantakkan kehidupan di bumi. Bencana tersebut di antaranya berupa badai yang dari tahun
+        ke tahun semakin ganas, iklim yang tidak stabil, suhu yang meningkat, kenaikan permukaan air laut,
+
+        mencairnya  es  di  kutub,  banjir  dan  sebagainya.  Sejak  era  industri,  kebutuhan  energi  untuk
+
+        menjalankan  mesin  terus  meningkat,  misalnya  energi  yang  digunakan  untuk  menjalankan
+        motor/mobil,  energi  digunakan  untuk  penerangan/pemanasan  rumah  tangga  dan  industri,  yang
+
+        diperoleh dari bahan bakar fosil seperti minyak bumi dan batu bara yang berasal dari pembusukkan
+        fosil makhluk hidup. Meningkatnya jumlah emisi gas rumah kaca (GRK) di atmosfer disebabkan
+
+        oleh kegiatan manusia di berbagai sektor seperti energi, kehutanan, pertanian dan peternakan serta
+
+        sampah.
+               Upaya yang dapat kita lakukan untuk meminimalkan terjadinya pemanasan global dalam
+
+        berbagai sektor antara lain :
+         a.  Pertanian
+
+            •  Pengeloaan air: proses penggenangan berkala
+
+            •  Pengelolaan tanah: penggunaan pupuk urea tablet pengganti urea tabur
+            •  Pemilihan praktik pertanian: pemakaian varetas padi unggul
+
+            •  Diversifikasi pangan: konsumsdi karbohidrat selain beras, seperti kentang, sagu dan jagung
+                                                                                                              26
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="34"><![CDATA[b.  Peternakan
+
+            •  Penggunaan pakan ternak berkualitas baik
+            •  Pemanfaatan kotoran ternak sebagai sumber pembangkit listrik tenaga biogas
+
+         c.  Transportasi
+
+            •  Mengurangi penggunaan kendaraan pribadi di bawah kapasitas angkut-nya Penggunaan
+                transportasi massal
+
+            •  Penggunaan system transportasi non motor untuk jarak pendek
+         d.  Energi
+
+            Pemanfaatan energi terbarukan seperti panas bumi, mikrohidro, surya, angin dan biomassa
+
+         e.  Kehutanan
+            Pengelolaan  hutan  seperti  reboisasi,  penanaman  kawasan  penyangga,  dan  penghijauan
+
+            kembali
+         f.  Pengolahan Sampah
+
+            •  Mengurangi jumlah sampah (dari rumah tangga)
+
+            •  Permanfaatan sampah untuk tujuan daur ulang
+            •  Pemanfaatan gas metana dari sampah sebagai sumber energi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                              27
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="35"><![CDATA[GLOSARIUM
+
+
+            Atmosfer             :  Lapisan udara yang menyelimuti permukaan bumi.
+            Cuaca                :  Kondisi  atmosfer  rata-rata  di  suatu  tempat  tertentu  dengan  waktu  yang
+
+                                    relatif singkat.
+            Efek Rumah Kaca   :  Proses  pemanasan  alami  yang  terjadi  ketika  gas-gas  rumah  kaca  di
+                                    atmosfer bimi memerangkap radiasi panas dari bumi.
+
+            Emisi                :   Pencemaran udara yang dihasilkan dari kegiatan manusia.
+            Emisi Karbon         :   Proses  karbon  dioksida  ke  atmosfer  yang  terjadi  secara  alami  maupun
+
+                                    dipicu aktivitas manusia.
+            Fosil                :  Sisa-sisa atau bekas-bekas makhluk hidup yang menjadi batu/mineral.
+            Gas Rumah Kaca       :  Gas-gas yg ada di atmosfer misalnya CO2 dan CH4.
+
+            Josept Fourier       :  Ilmuan yang mempelajari efek rumah kaca.
+            Lapisan Ozon         :   Lapisan  di  atas  atmosfer  yang  melindungi  bumi  dari  bahaya  radiasi
+                                    ultraviolet yang berasal dari matahari.
+
+            Nitrogenoksida       :  Penyebabkan pemanasan global.
+            Ozon gas             :  Terdiri dari 3 atom oksigen serta berperan melapisi bumi dari radiasi sinar
+                                    ultra violet
+
+            Pemanasan            :  peningkatan suhu rata-rata bumi akibat bertambahnya gas rumah kaca.
+            Global
+
+            Perubahan Iklim      :  Mencakup baik pemansan global maupun efeknya, seperti perubahan curah
+                                    hujan,  kenaikan  permaukaan  laut,  dan  dampak  yang  berbeda  menurut
+                                    wilayah.
+
+            Iklim                :  Keadaan atau karakter cuaca yang terjadi di suatu tempat atau daerah.
+            CFC/Freon            :  Senyawa organik yang mengandung karbon, klorin, dan fluorin. CFC biasa
+
+                                    disebut freon yang sering digunakan untuk pendingin.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                              28
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="36"><![CDATA[DAFTAR PUSTAKA
+
+
+        Efwinda, S., Damayanti, P., Rananda, N., Puspita, I., Zahra, A. P., & Darusman, D. (2022). Pelatihan
+               Pembuatan  Poster  Digital  Tema  Pemanasan  Global  untuk  Siswa  SMP  di  Samarinda.
+               Bubungan       Tinggi:    Jurnal    Pengabdian      Masyarakat,      4(4),   1132-1140.      DOI:
+               https://doi.org/10.20527/btjpm.v4i4.6183
+        Fauziah, L. 2020. Pengaruh Model Pembelajaran Problem Based Learning Terhadap Kemampuan
+               Literasi Sains Siswa Pada Konsep Pemanasan Global. Institutional Repository UIN Syarif
+               Hidayatullah Jakarta. h. 1-59.
+        Hidayat, A. 2015. Pendidikan islam dan lingkungan hidup. Jurnal Pendidikan Islam, 4(2), 373389
+        Leu,  B.  2021.  Dampak  pemanasan  global  dan  upaya  pengen-daliannya  melalui  pendidikan
+               lingkungan hidup dan pendidikan islam. AT-TADBIR: Jurnal Manajemen Pendidikan Islam,
+               1(2), 1-15. DOI: https://doi.org/10.51700/attadbir.v1i2.207
+        Pradana, O. C. P., & Sesanti, R. N. 2018. Analisis Dampak Perubahan Iklim Terhadap Curah Hujan
+               Berdasarkan Perubahan Zona Agroklimatologi Pada Skala Lokal Politeknik Negeri Lampung.
+               Jurnal Wacana Pertanian, 14(1), 24-31. DOI: http://dx.doi.org/10.37694/jwp.v14i1.23
+        Pratama, R. 2019. Efek rumah kaca terhadap bumi. Buletin Utama Teknik, 14(2), 120-126.
+        Rachmayanti, L., & Mangkoedihardjo, S. 2021. Evaluasi dan Perencanaan Ruang Terbuka Hijau
+               (RTH) Berbasis Serapan Emisi Karbon Dioksida (CO2) di Zona Tenggara Kota Surabaya
+               (Studi    Literatur   dan    Kasus).     Jurnal    Teknik    ITS,    9(2),   C107-C114.      DOI:
+               10.12962/j23373539.v9i2.54854
+        Rahmadania, N. 2022. Pemanasan Global Penyebab Efek Rumah Kaca dan Penanggulangannya.
+               Jurnal Ilmu Teknik, 2(3).
+        Rambe, R. D. H., Hafizh, M., & Asbur, Y. 2021. Pertumbuhan dan produksi tanaman bawang merah
+               (Allium  cepa L.) terhadap  cekaman kekeringan dan  dosis  pupuk  kendang sapi.  Agriland:
+               Jurnal Ilmu Pertanian, 9(1), 7-11. DOI: https://doi.org/10.30743/agr.v9i1.3860
+        Rarastry,  A.  D.  2016.  Konribusi  sampah  terhadap  pemanasan  global.  Pusat  Pengendalian
+               Pembangunan Ekoregion (P3E) Kalimantan. Kalimantan
+        Rasmikayati,  E.,  &  Djuwendah,  E.  2015.  Dampak  perubahan  iklim  terhadap  perilaku  dan
+               pendapatan petani (the impact of climate change to farmers’ behavior and revenue). Jurnal
+               Manusia dan Lingkungan, 22(3), 372-379. DOI: https://doi.org/10.22146/jml.18764
+        Setiani, P. 2020. SAINS Perubahan Iklim. Bumi Aksara. Jakarta.
+        Sudarma, I. M., & As-syakur, A. R. 2018. Dampak perubahan iklim terhadap sektor pertanian di
+               Provinsi      Bali.    SOCA        J.    Sos.      Ekon.     Pertan,      12(1),     87.     DOI:
+               https://doi.org/10.24843/SOCA.2018.v12.i01.p07
+        Surtani,  S.  2015.  Efek  Rumah  Kaca  Dalam  Perspektif  Global  (Pemanasan  Global  Akibat  Efek
+               Rumah Kaca). Jurnal Geografi, 4(1), 49-55.
+        Tamala, S., Hanifah, N. H., Zahrani, K., Galuh, S. T., Adji, F. B., & Husamah, H. 2022. Program go
+               green in school: No plastic and greening. Jurnal Pendidikan Profesi Guru, 3(3), 100-104. DOI:
+               https://doi.org/10.22219/jppg.v3i3.24010
+        Wardhana, W. A. 2010. Dampak Pemanasan Global. Andi. Yogyakarta.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                              29
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="37"><![CDATA[KUNCI JAWABAN REMIDIAL
+
+         1.  Mengurangi  penggunaan  bahan  bakar  fosil  dengan  mengurangi  pemakaian  kendaraan
+            bermotor. Menggunakan energi alternatif misal pemanfaatan sinar matahari. Tidak menebang
+
+            pohon  di  hutan  sembarangan.  Melakukan  reboisasi  (penanaman  pohon  kembali  di  lahan
+            gundul).
+
+         2.  Iya ada, Global warming atau pemanasan global memiliki manfaat diantaranya yaitu mampu
+            menyediakan panas berlebih, ini artinya kita bisa memanfaatkannya untuk dikonversi menjadi
+
+            bentuk energi lain, listrik misalnya. Melimpahnya panas bisa dikonversi menjadi energi. Makin
+
+            panjang musim panasnya, tentu cadangan energi alternatif yang bisa didapatkan juga semakin
+            banyak.
+
+         3.  Efek pemanasan global mengakibatkan jumlah hewan semakin berkurang karena tidak bisa
+            bertahan dengan cuaca dan tumbuh-tumbuhan sebagai makanannya juga semakin berkurang.
+
+            Akibatnya, beberapa hewan yang tidak mampu beradaptasi akan punah. Kepunahan spesies
+            organisme akan mengurangi keanekaragaman hayati.
+
+         4.  Peningkatan suhu bumi akan mengakibatkan cadangan air di atmosfer meningkat sehingga
+
+            mengurangi ketersediaan air di dalam tanah, khususnya pada saat musim kemarau. Lalu pada
+            saat suhu atmosfer menurun, akan terjadi hujan yang intens. Meningkatnya temperatur udara
+
+            yang  disebabkan  oleh  pemanasan  global  dalam  perubahan  iklim  menyebabkan  semakin
+
+            cepatnya  penguapan  atau  evaporasi  sehingga  menyebabkan  air  tanah  semakin  cepat
+            berkurang. Air tanah yang berkurang ini akan memengaruhi ketersediaan air bersih di bumi.
+
+         5.  Usaha  yang  dapat  dilakukan  oleh  siswa  untuk  mengurangi  pemanasan  global  adalah
+            menggunakan kendaraan umum untuk pergi ke sekolah. Matikan aliran listrik sesaat setelah
+
+            digunakan, membawa bekal makanan dengan tempat makan sendiri agar tidak jajan dengan
+            penggunaan banyak plastik.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                              30
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="38"><![CDATA[BIOGRAFI PENULIS
+
+                                Rani Fajar Wati, lahir 17 Mei 2001 di Sidoasri, Lampung. Pendidikan Dasar di
+                                SDN 1 Sidoasri (2007-2013), lulus SMPN 1 Sidomulyo (2016), lulus SMAN 1
+                                Sidomulyo  (2019),  dan  Mahasiswa  Pendidikan  Fisika  di  Universitas
+                                Muhammadiyah  Metro  angkatan  2019.  Selama  berkuliah  penulis  aktif  dalam
+                                kegiatan kemahasiswaan, diantaranya Bendahara Umum IMAFIS (2021-2022),
+                                Kabid RPK PK IMM FKIP UM Metro (2021-2022), Kabid KOMINFO Pramuka UM
+                                Metro (2021-2022), dan Bendahara PHP2D IMAFIS (2021). Selain itu penulis
+                                juga sempat bertugas sebagai peserta Kampus Mengajar Angkatan 3 di SDN 3
+                                Metro  Timur  (2022)  dan  sebagai  Asisten  Labolatorium  Fisika  Universitas
+                                Muhammadiyah Metro (2020-2022).
+
+
+           Oktarina,  dilahirkan  di  Way  Kanan  pada  tanggal  5  Oktober  1999.  Penulis
+           menamatkan  pendidikan  menengah  atas  di  SMAN  1  Rebang  Tangkas.
+           Selanjutnya menempuh pendidikan di Fakultas Keguruan dan Ilmu Pendidikan,
+           Universitas Muhammadiyah  Metro,  dengan  program  studi Pendidikan Fisika.
+           Semasa  kuliah  penulis  aktif  dalam  berorganisasi,  diantaranya  penulis
+           merupakan  ketua  bidang  organisasi  IMAFIS  UM  Metro  Periode  2021-2022,
+           Ketua  bidang  organisasi  PK  IMM  FKIP  UM  Metro  Periode  2021-2022,  dan
+           sekretaris bidang organisasi PC IMM Kota Metro Periode 2022-2023.
+
+
+
+                                  Estika Prameswari, lahir 25 April 2000 di  Pekalongan, Lampung. Pendidikan
+                                  Dasar di SDN 4 Metro Timur (2007-2013), lulus SMPN 4 Metro (2015), lulus
+                                  SMAN  1  Metro  (2018),  mahasiswa  S1  Pendidikan  Fisika  Universitas
+                                  Muhammadiyah Metro (2019-sekarang). Selama berkuliah penulis aktif dalam
+                                  kegiatan kemahasiswaan, diantaranya sekertaris bidang informasi sosial dan
+                                  masyarakat (2020-2021), kepala bidang informasi sosial dan masyarakat (2021-
+                                  2022), dan asisten laboratorium pendidikan fisika (2020-2022).
+
+
+
+
+
+           Sri  Arum  Mawarni,  lahir  23  Juli  2001  di  Rawajitu  Selatan,  Tulang  Bawang.
+           Pendidikan  Dasar  di  SDN  1  Karya  Jitu  Mukti  (2007-2013),  Lulus  SMPN  1
+           Rawajitu Timur (2016), Lulus MA Ma'arif Roudlotut Tholibin (2019), mahasiswa
+           S1  Pendidikan  Fisika  Universitas  Muhammadiyah  Metro  (2019-sekarang).
+           Selama  berkuliah  penulis  aktif  dalam  kegiatan  kemahasiswaan,  diantaranya
+           ketua bidang dakwah IMAFIS UM Metro periode 2021-2022, Peserta Kampus
+           Mengajar Angkatan 3 di SDN 3 Metro Utara, dan sebagai Asisten Laboratorium
+           Pendidikan Fisika Universitas Muhammadiyah Metro.
+
+
+
+                                  Intan  Sovi  Aghnia  Qolbi,  lahir  16  Februari  2004  di  Muara  Gading  Mas,
+                                  Lampung. Pendidikan Dasar di SDN 3 Muara Gading Mas (2009-2015), lulus
+                                  SMP  YPI  3  Way  Jepara  (2018),  lulus  SMAS  Budi  Mulia  Karawang  (2021),
+                                  mahasiswa  S1  Pendidikan  Fisika  Universitas  Muhammadiyah  Metro  (2021-
+                                  sekarang).  Selama  berkuliah  penulis  aktif  dalam  kegiatan  kemahasiswaan,
+                                  diantaranya  sekertaris  bidang  informasi  sosial  dan  masyarakat  (2022-2023)
+                                  dan asisten laboratorium pendidikan fisika (2022).
+
+
+
+
+
+
+           Pendidikan  Dasar  di  SDN  6  Metro  Timur  (1996-2002),  lulus  SMPN  1  Metro
+           (2005), lulus SMAN 1 Metro (2008), lulus S1 Pendidikan Fisika UM Metro (2012),
+           lulus  S2  Pendidikan  Sains,  minat  Utama  Fisika  UNS  (2014),  dan  2021  Lulus
+           Doktoral Ilmu Pendidikan minat Pendidikan IPA UNY. Sejak 2015 hingga saat ini
+           sebagai salah satu dosen Pendidikan Fisika di Universitas Muhammadiyah Metro
+           Lampung.
+
+
+
+
+
+
+
+                                                                                                              31
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page><page Index="39"><![CDATA[Pemanasan global merupakan suatu keadaan ketidakseimbangan
+
+        ekosistem di bumi akibat terjadinya proses peningkatan temperatur
+
+        rata-rata atmosfer, laut, dan daratan di bumi.
+
+        enyebab pemansan global salah satunya yaitu
+
+        pelepasan karbon dioksida (CO2) akibat bahan bakar fosil
+        yang digunakan untuk energi. Gejala pemanasan global
+
+        yaitu terjadinya efek rumah kaca, emisi karbon, dan perubahan iklim.
+
+        Pemanasan global berdampak terhadap semua sektor
+        yaitu gangguan cuaca, tingginya permukaan air laut, pertanian,
+
+        hewan dan tumbuhan, serta kesehatan manusia.
+
+        Alternatif solusi yang dapat kita lakukan untuk mengurangi
+
+        pemanasan global diantaranya yaitu dengan mendaur ulang,
+
+        menghemat energi, dan mencegah kerusakan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                              38
+          Modul Fisika Pemanasan Global       |       Kelas XI]]></page></pages></Search>
